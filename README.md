@@ -12,7 +12,7 @@ Esse módulo é o único estritamente teórico, o objetivo é identificar a impo
 
 **Unidade 2 - Fundamentos da Linguagem R**
 
-O primeiro módulo prático tem objetivo de apresentar os tipos de dados e as funções da Linguagem R. Na metade do módulo construímos estruturas e funções com alguns exemplos práticos e muito simples.  Passamos por funções como: c(), levels(), list(), factor(), dim(), str(), o pacote ggplot2 e muitas outras. Por ser o primeiro contato com a maioria dessas funções, e também por apresentar alguns conceitos aprendidos na escola, como famosa Matriz, indico que assista os vídeos duas vezes para se apropriar dos conceitos e de sua utilização.
+O primeiro módulo prático tem objetivo de apresentar os tipos de dados e as funções da Linguagem R. Na metade do módulo construímos estruturas e funções com alguns exemplos práticos e muito simples.  Passamos por funções como: c(), levels(), list(), factor(), dim(), str(), o pacote ggplot2 e muitas outras. Por ser o primeiro contato com a maioria dessas funções, indico que assista os vídeos duas vezes para se apropriar dos conceitos e de sua utilização.
 
 **Prós**
 1. Conteúdo equacionado, vídeos curtos e diretos.
