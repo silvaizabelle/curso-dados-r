@@ -18,4 +18,4 @@ O primeiro módulo prático tem objetivo de apresentar os tipos de dados e as fu
 1. Conteúdo equacionado, vídeos curtos e diretos.
 
 
-(...) Continua conforme eu for fazendo o curso.
+_(...) Continua conforme eu for fazendo o curso._
