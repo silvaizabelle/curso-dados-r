@@ -10,6 +10,8 @@ Esse módulo é o único estritamente teórico, o objetivo é identificar a impo
 1. Ter apresentado o Seminário Internacional sobre Análise de Dados na Administração Pública, lugar de discussão, troca de experiência e boas práticas.  
 2. Querionamento sobre o nosso próprio ambiente de trabalho, principalmente para aqueles que trabalham na esfera pública. Afinal, como os dados estão organizados em nosso local de trabalho? 
 
+_O método de iniciar a discussão e o aprendizado partindo da experiência do estudante é um aspecto muito positivo. Visto que a escola tem como público-alvo funcionários e funcionárias da esfera pública, abordar questões relacionados ao poder pública deixa o estudante mais confortável._
+
 ### **Unidade 2 - Fundamentos da Linguagem R**
 
 O primeiro módulo prático tem objetivo de apresentar os tipos de dados e as funções da Linguagem R. Na metade do módulo construímos estruturas e funções com alguns exemplos práticos e muito simples.  Passamos por funções como: c(), levels(), list(), factor(), dim(), str(), o pacote ggplot2 e muitas outras. Por ser o primeiro contato com a maioria dessas funções, indico que assista os vídeos duas vezes para se apropriar dos conceitos e de sua utilização.
