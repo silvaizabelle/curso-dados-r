@@ -11,7 +11,7 @@ install.packages ("ggplot2")
 # CARREGANDO UM NOVO PACOTE
 library (ggplot2)
 
-# Vetores
+# VETORES
 cidade <- c("Brasilia",
            "Saulo Paulo",
            "Rio de Janeiro",
@@ -26,7 +26,7 @@ regiao <- c(1,2,2,3)
 
 ?c()
 
-#Acessando o primeiro elemento
+# ACESSANDO O PRIMEIRO ELEMENTO
 cidade[1]
 
 # ACESSANDO O INTERVALO DOS ELEMENTOS 
