@@ -1,4 +1,4 @@
-# **Curso de Análise de Dados em Linguagem R pela Escola Virtual do Governo**
+## **Curso de Análise de Dados em Linguagem R pela Escola Virtual do Governo**
 
 O [curso da Escola Virtual](https://mooc38.escolavirtual.gov.br/course/view.php?id=819) foi o primeiro que completei nessa jornada pelos dados governamentais. Para quem se interessar, este é o conteúdo programático do curso, com _breve_ análise dos módulos:
 
